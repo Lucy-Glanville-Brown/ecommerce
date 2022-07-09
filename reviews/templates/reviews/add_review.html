@@ -1,0 +1,8 @@
+{% if request.user.is_authenticated %}
+<form method="POST" action="{% url 'add_review' product.id %}">
+    {% csrf_token %}
+    {{ form|crispy }}
+    <button class="btn btn-black rounded-0 text-uppercase float-right">Post Review</button>
+</form>
+{% endif %}
+            

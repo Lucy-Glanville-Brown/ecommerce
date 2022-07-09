@@ -1,0 +1,1 @@
+web: gunicorn plant_spot.wsgi:application

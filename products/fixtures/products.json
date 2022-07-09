@@ -1,0 +1,366 @@
+[
+   {
+     "pk": 1,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5001340155",
+       "name": "Haworthia",
+       "description": "Haworthia is a low maintenance plant suitable for light spaces",
+       "price": 14.5,
+       "category": 1,
+       "rating": 4.6,
+       "image_url": "https://unsplash.com/photos/TQLSW8tfAU8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+       "image": "1_Haworthia.jpg"
+     }
+   },
+   {
+     "pk": 2,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5001600425",
+       "name": "Miranda",
+       "description": "Miranda is a Low maintenance plant suitable for Light spaces",
+       "price": 15,
+       "category": 1,
+       "rating": 4.6,
+       "image_url": "",
+       "image": "2_Miranda.jpg"
+     }
+   },
+   {
+     "pk": 3,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5001730010",
+       "name": "Aloe Vera",
+       "description": "Aloe Vera is a A little more TLC plant suitable for Light spaces",
+       "price": 18.5,
+       "category": 1,
+       "rating": 4.7,
+       "image_url": "https://www.pexels.com/photo/aloe-vera-plant-on-brown-clay-pot-5982611/",
+       "image": "3_Aloe_Vera.jpg"
+     }
+   },
+   {
+     "pk": 4,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5001890157",
+       "name": "Mini Peperomia Piccolo",
+       "description": "Mini Peperomia Piccolo is a A little more TLC plant suitable for Bathroom, Light spaces",
+       "price": 9,
+       "category": 6,
+       "rating": 3,
+       "image_url": "https://www.pexels.com/photo/green-plant-on-brown-clay-pot-9130870/",
+       "image": "4_Peperomia_Piccolo.jpg"
+     }
+   },
+   {
+     "pk": 5,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002111605",
+       "name": "Sansevieria (Snakey)",
+       "description": "Sansevieria (Snakey) is a Low maintenance plant suitable for Darker corners, Light spaces",
+       "price": 23,
+       "category": 6,
+       "rating": 5,
+       "image_url": "https://unsplash.com/photos/nEMtLYJM2XA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+       "image": "5_Sansevieria.jpg"
+     }
+   },
+   {
+     "pk": 6,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002260206",
+       "name": "Zamioculcas",
+       "description": "Zamioculcas is a Low maintenance plant suitable for Darker corners, Light spaces",
+       "price": 20.5,
+       "category": 3,
+       "rating": 4.7,
+       "image_url": "https://www.pexels.com/photo/photo-plant-in-a-pot-8549167/",
+       "image": "6_Zamioculcas.jpg"
+     }
+   },
+   {
+     "pk": 7,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002440521",
+       "name": "English Ivy",
+       "description": "English Ivy is a Low maintenance plant suitable for Darker corners",
+       "price": 18.5,
+       "category": 5,
+       "rating": 4.4,
+       "image_url": "https://www.pexels.com/photo/food-light-summer-sun-7365049/",
+       "image": "7_English_Ivy.jpg"
+     }
+   },
+   {
+     "pk": 8,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002601115",
+       "name": "Monstera",
+       "description": "Monstera is a Low maintenance plant suitable for Bathroom, Hallway, Light spaces, Living Space",
+       "price": 26,
+       "category": 3,
+       "rating": 4.5,
+       "image_url": "https://unsplash.com/photos/ZUYzwHzUQgM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+       "image": "8_Monstera.jpg"
+     }
+   },
+   {
+     "pk": 9,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002690715",
+       "name": "Fiddle Leaf Fig",
+       "description": "Fiddle Leaf Fig is a Average care plant suitable for Bedroom, Desk/Study, Kitchen, Light spaces, Living Space",
+       "price": 22,
+       "category": 3,
+       "rating": 4.7,
+       "image_url": "https://www.pexels.com/photo/green-ficus-lyrata-on-table-7084309/",
+       "image": "9_Fiddle_Leaf_Fig.jpg"
+     }
+   },
+   {
+     "pk": 10,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002701115",
+       "name": "Ficus Benjamina",
+       "description": "Ficus Benjamina is a Low maintenance plant suitable for Light spaces",
+       "price": 18.5,
+       "category": 3,
+       "rating": 4.4,
+       "image_url": "https://unsplash.com/photos/hPVWVpZoQJw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+       "image": "10_Ficus_Benjamina.jpg"
+     }
+   },
+   {
+     "pk": 11,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002761055",
+       "name": "Spider Plant",
+       "description": "Spider Plant is a Low maintenance plant suitable for Bathroom, Bedroom, Darker corners, Desk/Study, Hallway, Kitchen, Light spaces, Living Space",
+       "price": 18.5,
+       "category": 6,
+       "rating": 3,
+       "image_url": "",
+       "image": "11_Spider_Plant.jpg"
+     }
+   },
+   {
+     "pk": 12,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002820069",
+       "name": "Peace Lily",
+       "description": "Peace Lily is a Average care, A little more TLC plant suitable for Bathroom, Bedroom, Desk/Study, High humidity, Kitchen, Light spaces, Living Space",
+       "price": 19.5,
+       "category": 7,
+       "rating": 4.6,
+       "image_url": "",
+       "image": "12_Peace_Lily.jpg"
+     }
+   },
+   {
+     "pk": 13,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002820147",
+       "name": "Blue Star Fern",
+       "description": "Blue Star Fern is a Low maintenance plant suitable for Bathroom, Bedroom, Desk/Study, Hallway, Kitchen, Living Space",
+       "price": 20.5,
+       "category": 4,
+       "rating": 3.2,
+       "image_url": "",
+       "image": "13_Blue_Star_Fern.jpg"
+     }
+   },
+   {
+     "pk": 14,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002910572",
+       "name": "Calathea",
+       "description": "Calathea is a Average care plant suitable for Bathroom, High humidity, Light spaces",
+       "price": 23,
+       "category": 6,
+       "rating": 4.7,
+       "image_url": "https://www.pexels.com/photo/wood-relaxation-summer-pot-6754892/",
+       "image": "14_Calathea.jpg"
+     }
+   },
+   {
+     "pk": 15,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5002990740",
+       "name": "Boston Fern",
+       "description": "Boston Fern is a Average care plant suitable for Bathroom, High humidity, Light spaces",
+       "price": 19.5,
+       "category": 4,
+       "rating": 4.8,
+       "image_url": "",
+       "image": "15_Boston_Fern.jpg"
+     }
+   },
+   {
+     "pk": 16,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003050248",
+       "name": "Chamaedorea",
+       "description": "Chamaedorea is a Low maintenance plant suitable for Bathroom, High humidity, Light spaces",
+       "price": 18.5,
+       "category": 4,
+       "rating": 4.4,
+       "image_url": "",
+       "image": "16_Chamaedorea.jpg"
+     }
+   },
+   {
+     "pk": 17,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003070787",
+       "name": "Peperomia Watermelon Houseplant",
+       "description": "Peperomia Watermelon Houseplant is a Low maintenance plant suitable for Bathroom, Kitchen, Light spaces, Living Space",
+       "price": 22,
+       "category": 6,
+       "rating": 4.4,
+       "image_url": "",
+       "image": "17_Peperomia Watermelon.jpg"
+     }
+   },
+   {
+     "pk": 18,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003090182",
+       "name": "Devil’s Ivy",
+       "description": "Devil’s Ivy is a Low maintenance plant suitable for Darker corners, Light spaces",
+       "price": 20.5,
+       "category": 5,
+       "rating": 4.8,
+       "image_url": "",
+       "image": "18_Devils_Ivy.jpg"
+     }
+   },
+   {
+     "pk": 19,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003090186",
+       "name": "Tradescantia",
+       "description": "Tradescantia is a Low maintenance plant suitable for Bathroom, Bedroom, Hallway, Kitchen, Light spaces, Living Space",
+       "price": 20,
+       "category": 5,
+       "rating": 5,
+       "image_url": "https://www.pexels.com/photo/green-potted-plant-on-wooden-shelf-4857756/",
+       "image": "19_Tradescantia.jpg"
+     }
+   },
+   {
+     "pk": 20,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003161326",
+       "name": "Croton",
+       "description": "Croton is a Average care plant suitable for Light spaces",
+       "price": 10.5,
+       "category": 6,
+       "rating": 4.7,
+       "image_url": "https://www.pexels.com/photo/potted-codiaeum-variegatum-plant-placed-near-wardrobe-in-room-6508343/",
+       "image": "20_Croton.jpg"
+     }
+   },
+   {
+     "pk": 21,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003230723",
+       "name": "Begonia Maculata",
+       "description": "Begonia Maculata is a Average care plant suitable for Bathroom, Light spaces",
+       "price": 25.5,
+       "category": 6,
+       "rating": 4.3,
+       "image_url": "https://www.pexels.com/photo/close-up-shot-of-a-plant-in-white-pot-7493211/",
+       "image": "21_Begonia_Maculata.jpg"
+     }
+   },
+   {
+     "pk": 22,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003270936",
+       "name": "Jungle Orchid",
+       "description": "Jungle Orchid is a Low maintenance plant suitable for Bedroom, Darker corners, Light spaces, Living Space",
+       "price": 31.5,
+       "category": 7,
+       "rating": 5,
+       "image_url": "",
+       "image": "22_Jungle_Orchid.jpg"
+     }
+   },
+   {
+     "pk": 23,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003360384",
+       "name": "Mini Orchid",
+       "description": "Mini Orchid is a Low maintenance plant suitable for Light spaces",
+       "price": 24.5,
+       "category": 7,
+       "rating": 4.8,
+       "image_url": "",
+       "image": "23_Mini_Orchid.jpg"
+     }
+   },
+   {
+     "pk": 24,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003440111",
+       "name": "Flowering Begonia",
+       "description": "Flowering Begonia is a Average care plant suitable for Light spaces",
+       "price": 19.5,
+       "category": 7,
+       "rating": 3.8,
+       "image_url": "",
+       "image": "24_Flowering_Begonia.jpg"
+     }
+   },
+   {
+     "pk": 25,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003540313",
+       "name": "Yucca",
+       "description": "Yucca is a Low maintenance plant suitable for Light spaces",
+       "price": 18.5,
+       "category": 2,
+       "rating": 3,
+       "image_url": "https://www.pexels.com/photo/yucca-plant-on-white-pot-11118532/",
+       "image": "25_Yucca.jpg"
+     }
+   },
+   {
+     "pk": 26,
+     "model": "products.product",
+     "fields": {
+       "sku": "pp5003560513",
+       "name": "Asparagus Fern",
+       "description": "Asparagus Fern is a A little more TLC plant suitable for Bathroom, Hallway, High humidity, Living Space",
+       "price": 20.5,
+       "category": 2,
+       "rating": 4.4,
+       "image_url": "https://www.pexels.com/photo/green-fern-plant-on-white-pot-7149718/",
+       "image": "26_Asparagus_Fern.jpg"
+     }
+   }
+ ]

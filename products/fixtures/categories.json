@@ -1,0 +1,58 @@
+[
+    {
+      "pk": 1,
+      "model": "products.category",
+      "fields": {
+        "name": "succulents_cacti",
+        "friendly_name": "Succulents & Cacti"
+      }
+    },
+    {
+      "pk": 2,
+      "model": "products.category",
+      "fields": {
+        "name": "indoor_plants",
+        "friendly_name": "Indoor Plants"
+      }
+    },
+    {
+      "pk": 3,
+      "model": "products.category",
+      "fields": {
+        "name": "air_purifying",
+        "friendly_name": "Air Purifying"
+      }
+    },
+    {
+      "pk": 4,
+      "model": "products.category",
+      "fields": {
+        "name": "pet_friendly",
+        "friendly_name": "Pet Friendly"
+      }
+    },
+    {
+      "pk": 5,
+      "model": "products.category",
+      "fields": {
+        "name": "trailing",
+        "friendly_name": "Trailing"
+      }
+    },
+    {
+      "pk": 6,
+      "model": "products.category",
+      "fields": {
+        "name": "patterned_colourful",
+        "friendly_name": "Patterned & Colourful"
+      }
+    },
+    {
+      "pk": 7,
+      "model": "products.category",
+      "fields": {
+        "name": "flowering",
+        "friendly_name": "Flowering"
+      }
+    }
+  ]

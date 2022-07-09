@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block extra_title %}
+    404
+{% endblock %}
+
+{% block page_header %}
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="overlay"></div>
+    <section class="container justify-content-center">
+        <div class="row">
+            <div class="col my-4 text-center text-black">
+                <hr>
+                <h2>Error 404</h2>
+                <hr>
+            </div>
+        </div>
+        <div class="row pb-5">
+            <div class="col-12 col-md-6 offset-md-3 text-center">
+                <h3 class="mt-2 mb-4 text-black">Oops!</h3>
+                <p class="text-black my-4">This page doesn't exist!</p>
+                <a href="{% url 'products' %}" class="shop-now-button btn btn-lg rounded text-uppercase py-3">
+                    Return to shop
+                </a>
+            </div>
+        </div>
+    </section>
+{% endblock %}
