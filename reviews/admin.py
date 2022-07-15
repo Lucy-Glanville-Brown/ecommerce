@@ -10,7 +10,7 @@ class ReviewAdmin(admin.ModelAdmin):
         'product',
         'created_on',
         'stars',
-        'user_profile',
+        'user',
         'comment',
     )
 

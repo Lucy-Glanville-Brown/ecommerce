@@ -6,4 +6,4 @@ class ReviewForm(forms.ModelForm):
     """ Credit Bunny The Compiler """
     class Meta:
         model = Review
-        fields = ["user_profile", "stars", "comment"]
+        fields = ["stars", "comment"]

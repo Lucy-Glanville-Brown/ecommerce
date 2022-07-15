@@ -11,7 +11,7 @@ class Review(models.Model):
         """ Set verbose name """
         verbose_name_plural = 'Reviews'
 
-    user_profile = models.ForeignKey(UserProfile, on_delete=models.CASCADE)
+    user = models.ForeignKey(UserProfile, on_delete=models.CASCADE)
     product = models.ForeignKey(Product, on_delete=models.CASCADE)
 
     # Credit Bunny The Compiler
